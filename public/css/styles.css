@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:darkcyan;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .medication-list {
+    float: left;
+    margin-right: 50px;
+  }
+  
+  .add-medication {
+    float: left;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  #name{
+    margin-left: 25px;
+  }
+  #dosage{
+    margin-left: 11px;
+  }
+  button {
+    margin-left: 10px;
+    background-color:rgba(16, 212, 238, 0.644);
+  }
+  
